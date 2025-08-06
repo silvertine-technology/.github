@@ -6,4 +6,6 @@ Proficient in Python, with a strong background in web development, data analysis
 
 Director of Silvertine where I work as a Software Engineer and Solution Architect.
 
-Learn more: Silvertine
+Learn more: [Silvertine](https://silvertine.technology/).
+
+Got questions? Ask the Silvertine AI agent, the [Wizard](https://silvertine.technology/wizard-ai/).
